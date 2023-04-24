@@ -701,7 +701,7 @@
             height: auto;
             width: auto;
             margin: 0;
-            margin: 80px;
+            margin: 20px;
             /* padding: 20px; */
         }
 
@@ -777,30 +777,33 @@
         }
         .work-content{
             padding: 0;
-            margin: 10px
+            margin: 20px
+        }
+         .image3 img{
+            width: 380px;
         }
         .media-card{
-            margin: 70px;
+            margin: 20px;
             padding: 0;
         }
         .media-card1{
             height: auto;
         }
         .telecast-card{
-            margin: 80px;
+            margin: 20px;
             padding: 0;
         }
         .tele-card1{
-            max-width: 300px
+            max-width: 350px
         }
         .tele-card1 video{
-            width: 300px;
+            width: 350px;
         }
         .tele-card2{
-            max-width: 300px;
+            max-width: 350px;
         }
         .tele-card2 video{
-            width: 300px;
+            width: 350px;
         }
         .aadhar-num{
             margin: 50px;
