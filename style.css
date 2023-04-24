@@ -777,9 +777,10 @@
             margin: 20px
         }
          .poster-card3 img{
-            width: 380px;
+            /* width: 320px;
             margin: 20px;
-            padding: 0;
+            padding: 0; */
+            display: none;
             /* background-color: aqua; */
         }
         .media-card{
