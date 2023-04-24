@@ -754,9 +754,7 @@
         .telecast-head{
             flex-direction: column;
         }
-        .aadhar-num{
-            /* margin-left: -10px; */
-        }
+       
         .heading{
             flex-direction: column;
             justify-content: center;
@@ -794,13 +792,13 @@
             padding: 0;
         }
         .tele-card1{
-            max-width: 350px
+            max-width: 380px
         }
         .tele-card1 video{
             width: 350px;
         }
         .tele-card2{
-            max-width: 350px;
+            max-width: 380px;
         }
         .tele-card2 video{
             width: 350px;
@@ -824,10 +822,18 @@
         }
         .txt-bg1{
             margin: 0;
-            width: auto;
+            width: 180px;
         }
         
         .txt-bg2{
+            margin: 0;
+            width: 180px;
+        }
+        .txt-bg3{
+            margin: 0;
+            width: 180px;
+        }
+        .txt-bg4{
             margin: 0;
             width: 180px;
         }
