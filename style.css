@@ -742,9 +742,7 @@
         .card-content{
             flex-direction: column;
         }
-        .telecast-card{
-            /* margin-left: -10px; */
-        }
+       
         .tele-card1{
             margin-bottom: 20px;
         }
