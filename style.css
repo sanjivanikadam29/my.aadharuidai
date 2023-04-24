@@ -683,20 +683,21 @@
     
 }
 
-@media screen and (max-width:500px){
+@media screen and (max-width:450px){
     .heading {
         display: none;
     }
         .work-card{
             flex-grow: 1;
             padding: 0;
+            /* margin: 0; */
         }
 
         .card1, .card2, .card3, .card4 {
             height: auto;
             width: auto;
             margin: 0;
-            margin: 20px;
+            margin: 80px;
             padding: 20px;
         }
 
@@ -709,7 +710,9 @@
             margin: 0;
             padding: 0;
         }
-
+        .card2 img{
+            margin: 0;
+        }
         .card3 img {
           margin: 0;
         }
@@ -770,30 +773,33 @@
         }
         .work-content{
             padding: 0;
-            margin: 20px;
+            margin: 10px;
         }
         .media-card{
-            margin: 20px;
+            margin: 70px;
             padding: 0;
         }
+        .media-card1{
+            height: auto;
+        }
         .telecast-card{
-            margin: 30px;
+            margin: 80px;
             padding: 0;
         }
         .tele-card1{
-            max-width: 400px
+            max-width: 300px
         }
         .tele-card1 video{
-            width: 400px;
+            width: 300px;
         }
         .tele-card2{
-            max-width: 400px;
+            max-width: 300px;
         }
         .tele-card2 video{
-            width: 400px;
+            width: 300px;
         }
         .aadhar-num{
-            margin: 40px;
+            margin: 80px;
             padding: 0;
         }
         .top-work{
@@ -816,7 +822,7 @@
         
         .txt-bg2{
             margin: 0;
-            width: 200px;
+            width: 180px;
         }
       
         .image-footer{
