@@ -687,10 +687,14 @@
     .heading {
         display: none;
     }
+    .mid-body{
+        display: block;
+    }
+    
         .work-card{
             flex-grow: 1;
             padding: 0;
-            /* margin: 0; */
+            margin: 0;
         }
 
         .card1, .card2, .card3, .card4 {
@@ -698,7 +702,7 @@
             width: auto;
             margin: 0;
             margin: 80px;
-            padding: 20px;
+            /* padding: 20px; */
         }
 
         .card4 .card-content{ 
@@ -739,7 +743,7 @@
             flex-direction: column;
         }
         .telecast-card{
-            margin-left: -10px;
+            /* margin-left: -10px; */
         }
         .tele-card1{
             margin-bottom: 20px;
@@ -751,7 +755,7 @@
             flex-direction: column;
         }
         .aadhar-num{
-            margin-left: -10px;
+            /* margin-left: -10px; */
         }
         .heading{
             flex-direction: column;
@@ -773,7 +777,7 @@
         }
         .work-content{
             padding: 0;
-            margin: 10px;
+            margin: 10px
         }
         .media-card{
             margin: 70px;
@@ -799,7 +803,7 @@
             width: 300px;
         }
         .aadhar-num{
-            margin: 80px;
+            margin: 50px;
             padding: 0;
         }
         .top-work{
@@ -810,7 +814,7 @@
             margin: 0;
         }
         footer{
-            margin-top: 250px;
+            margin-top: 280px;
         }
         .footer-txt{
             flex-wrap: wrap; 
